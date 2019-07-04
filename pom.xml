@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.0.3.RELEASE</version>
+        <!--该标签的作用就是去relativePath指定的路径寻找这个parent的pom.xml;当设置为<relativePath/>时,表示空值,即始终从中央仓库获取该POM-->
+        <!--该值默认为 ../pom.xml ,即上一个文件夹的pom.xml;当然,还可以指定路径去寻找-->
+        <!--maven引入父pom的查找顺序为relativePath元素的指定地址(未指定则包含默认值) -> 本地仓库 -> 远程仓库;-->
+        <relativePath/>
+    </parent>
+
+    <groupId>com.personal</groupId>
+    <artifactId>learndemo</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <!--打包类型声明为pom,表示可以被其他pom引入-->
+    <packaging>pom</packaging>
+
+    <properties>
+        <java.version>1.8</java.version>
+    </properties>
+
+    <!--通用类库,所有子pom都能够引用到,不用手动引入-->
+    <dependencies>
+        <!--springboot-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter</artifactId>
+        </dependency>
+
+        <!--单元测试-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+
+        <!--lombok-->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+
+        <!--通用类库-->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+        </dependency>
+    </dependencies>
+
+    <!--被管理引入的pom,子pom需手动引入-->
+    <!--dependencyManagement中有两个标签,分别为<type>pom</type><scope>import<scope>;这两个标签通常是配合一起使用的;表示使用该标签的dependency也能和当前pom一样
+        作为父pom被引入;这是因为maven和Java一样是不能够多继承的,也就是说一个模块不能引入多个父pom;所以通过pom+import的方式变相实现多继承;要注意的是,使用这两个标签和继承
+        parent的效果一样,pom中的依赖也需要子pom手动的引入,即和dependencyManagement管理的依赖是一样的效果
+        参考链接:https://blog.csdn.net/mn960mn/article/details/50894022
+                https://blog.csdn.net/leoxyk/article/details/79622507
+    -->
+    <dependencyManagement>
+        <dependencies>
+
+
+        </dependencies>
+    </dependencyManagement>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+</project>

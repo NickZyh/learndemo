@@ -2,14 +2,16 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <modules>
+        <module>example</module>
+    </modules>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.0.3.RELEASE</version>
-        <!--该标签的作用就是去relativePath指定的路径寻找这个parent的pom.xml;当设置为<relativePath/>时,表示空值,即始终从中央仓库获取该POM-->
+        <version>2.1.6.RELEASE</version>
+        <!--该标签的作用就是去relativePath指定的路径寻找这个parent的pom.xml;-->
         <!--该值默认为 ../pom.xml ,即上一个文件夹的pom.xml;当然,还可以指定路径去寻找-->
-        <!--maven引入父pom的查找顺序为relativePath元素的指定地址(未指定则包含默认值) -> 本地仓库 -> 远程仓库;-->
         <relativePath/>
     </parent>
 

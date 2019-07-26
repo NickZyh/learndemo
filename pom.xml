@@ -4,6 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <modules>
         <module>example</module>
+        <module>network-programming</module>
     </modules>
 
     <parent>

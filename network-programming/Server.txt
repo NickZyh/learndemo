@@ -1,0 +1,32 @@
+# 头文件,可以理解为导入操作系统的类,调用函数
+#include <sys/socket.h>
+#include <sys/types.h>
+
+# 调用操作系统函数创建socket
+int main() {
+    # 指定IP协议,该参数代表IPV4;表示Socket协议,该参数代表TCP/IP协议;第三个参数不需要了解,指定为0,自动联系前两个参数
+    # 返回代表的socket的文件描述符;Linux的一切皆文件类似于Java的一切皆对象,所以能够理解为只要获取到了某个资源的文件描述符,就能操作这个资源;
+    # 文件描述符是一个int型数据,可以理解为这个int型就指向着一个文件;Java中一切皆对象,Linux中一切皆文件;
+    int lfd = socket(AF_INET,SOCK_STREAM,0);
+
+    # 定义结构体
+    struct sockaddr_in my_addr;
+
+    # C语言方法有三种参数：1 传入参数 2 传出参数：方法中传出来的参数,传入时可以直接传Null
+    #                    3 传入传出参数：具体传入一个值,当该值修改后,可以传出去;这意味着C语言的方法可以理解为能够返回两个返回值
+    # Socket文件描述符;传一个结构体(理解为Java对象),包含着IP+端口号;
+    bind(param1, param2, param3)
+
+
+    # 创建Socket,获得文件描述符
+    # 传入文件描述符,绑定IP+port
+    # 使用accept监听,每来一个连接请求,则会返回一个建立好的连接的文件描述符;
+    # 使用read读取发送的数据
+
+    # JNI的原理就是把 .class 文件变成 .h 文件  javah .class文件全路径名,不用加.class后缀,会生成 .h类库；.h类库能够被C文件导入,并引用方法
+
+    # Java中调用native方法的过程
+
+    # 服务器的socket是用来监听连接并创建新的socket的,accept方法会返回一个socket对象,这个socket对象才是真正和客户端连接的socket
+}
+

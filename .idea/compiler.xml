@@ -8,14 +8,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-websocket" />
+        <module name="proxy" />
         <module name="example" />
-        <module name="networkprogramming" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="example" target="1.8" />
       <module name="learndemo" target="1.8" />
       <module name="networkprogramming" target="1.8" />
+      <module name="proxy" target="1.8" />
       <module name="spring-websocket" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -23,6 +24,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="example" options="-parameters" />
       <module name="networkprogramming" options="-parameters" />
+      <module name="proxy" options="-parameters" />
       <module name="spring-websocket" options="-parameters" />
     </option>
   </component>

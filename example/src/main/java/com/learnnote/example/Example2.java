@@ -1,5 +1,6 @@
 package com.learnnote.example;
 
+
 /**
  * @Author nick.zhou
  * @Date 2019/7/24 10:13
@@ -58,6 +59,10 @@ public class Example2 {
      *      （3）将小数点左移n位（当30位是“0”时）或右移n位（当30位是“1”时），得到一个二进制表示的实数。
      *      （4）将这个二进制实数化为十进制，并根据第31位是“0”还是“1”加上正号或负号即可。
          */
+    }
+
+    public void test() {
+
     }
 }
 

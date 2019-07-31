@@ -12,7 +12,7 @@ import org.springframework.web.util.HtmlUtils;
  * @Date 2019/7/15 14:09
  * @Description <p>TODO</p>
  **/
-@Controller
+//@Controller
 public class GreetingController {
 
     @MessageMapping("/hello")

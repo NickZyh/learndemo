@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <modules>
         <module>example</module>
-        <module>network-programming</module>
+        <module>proxy</module>
     </modules>
 
     <parent>
@@ -32,6 +32,12 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
+        </dependency>
+
+        <!--springboot-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
         <!--单元测试-->
@@ -64,9 +70,9 @@
     <dependencyManagement>
         <dependencies>
 
-
         </dependencies>
     </dependencyManagement>
+
 
     <build>
         <plugins>

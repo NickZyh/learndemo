@@ -7,12 +7,16 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/mock-mybatis/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/mock-spring/pom.xml" />
         <option value="$PROJECT_DIR$/network-programming/pom.xml" />
+        <option value="$PROJECT_DIR$/proxy/pom.xml" />
       </set>
     </option>
   </component>

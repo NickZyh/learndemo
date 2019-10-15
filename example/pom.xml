@@ -11,5 +11,18 @@
 
     <artifactId>example</artifactId>
 
+    <dependencies>
+        <!-- RabbitMQ依赖  -->
+        <dependency>
+            <groupId>com.rabbitmq</groupId>
+            <artifactId>amqp-client</artifactId>
+            <version>5.6.0</version>
+        </dependency>
 
+        <!--        通用依赖-->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+    </dependencies>
 </project>

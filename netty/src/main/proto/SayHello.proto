@@ -1,0 +1,30 @@
+syntax = "proto3"; // grpc建议使用proto3语法
+
+// 定义包位置
+package com.protobuf;
+
+// 是否生成多个文件
+option java_multiple_files = true;
+// 这个地方控制的是代码生成器生成的代码包位置,这个包位置在生成的代码中具体使用到了,所以要
+// 写正确
+option java_package = "com.netty.grpc.example1";
+option java_outer_classname = "SayHello";
+
+// The greeting service definition.
+service SayHelloService {
+    // Sends a greeting
+    rpc SayHello (MyRequest) returns (MyResponse) {}
+
+    // Sends another greeting
+    rpc SayHelloAgain (MyRequest) returns (MyResponse) {}
+}
+
+// The request message containing the user's name.
+message MyRequest {
+    string user_name = 1;
+}
+
+// The response message containing the greetings
+message MyResponse {
+    string real_name = 1;
+}

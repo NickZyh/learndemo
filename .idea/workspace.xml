@@ -2,34 +2,286 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90247f0c-1084-4cdd-a229-32a4cfbf563d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/proxy/proxy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy/src/main/java/util/InvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy/src/main/java/util/Proxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_android_annotations_4_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_api_grpc_proto_google_common_protos_1_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_26_0_android.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_util_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_api_1_23_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_context_1_23_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_core_1_23_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_netty_shaded_1_23_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_1_23_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_protobuf_lite_1_23_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_stub_1_23_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_15_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_api_0_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opencensus_opencensus_contrib_grpc_metrics_0_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_perfmark_perfmark_api_0_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_unknown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/designpattern/builder/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/designpattern/builder/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/designpattern/builder/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/designpattern/decorator/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/designpattern/decorator/ConcreteComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/designpattern/decorator/ConcreteDecorator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/designpattern/decorator/ConcreteDecorator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/designpattern/decorator/Decorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/designpattern/decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/designpattern/observer/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/designpattern/observer/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/example14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/example14/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/example14/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/rabbitmq/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/rabbitmq/demo1/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/rabbitmq/demo1/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/rabbitmq/demo2/ConnectionChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/rabbitmq/demo2/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/config/DemoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/config/MapperImportBeanDefinitionRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/config/MapperScan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/dao/DemoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/dao/DemoInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/service/DemoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/DecodeExample1_In.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/DecodeExample2_Out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/NioExample10-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/NioExample10-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/NioExample11.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/NioExample2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/NioExample3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/NioExample6-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/NioExample6-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/netty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/decode/DecodeExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/chat/client/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/chat/client/ChatClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/chat/client/ChatClientInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/chat/server/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/chat/server/ChatServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/chat/server/ChatServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/grpc/example1/MyRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/grpc/example1/MyRequestOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/grpc/example1/MyResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/grpc/example1/MyResponseOrBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/grpc/example1/SayHello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/grpc/example1/SayHelloServiceGrpc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/heartbeat/HeartBeatHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/heartbeat/HeartBeatInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/heartbeat/HeartBeatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/http/HttpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/http/HttpServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/http/HttpServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/MyDataInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example1/DataInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example1/ProtoBufTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example2/client/ProtoBufClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example2/client/ProtoBufClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example2/client/ProtoBufClientInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example2/server/ProtoBufServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example2/server/ProtoBufServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example2/server/ProtoBufServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example3/client/ProtoBufClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example3/client/ProtoBufClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example3/client/ProtoBufClientInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example3/server/ProtoBufServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example3/server/ProtoBufServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example3/server/ProtoBufServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/socket/client/SocketClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/socket/client/SocketClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/socket/client/SocketClientInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/socket/server/SocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/socket/server/SocketServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/socket/server/SocketServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/source/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/websocket/WebSocketChannelInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/websocket/WebSocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/netty/websocket/WebSocketServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/Block-io-note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/buffer/NioExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/buffer/NioExample10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/buffer/NioExample11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/buffer/NioExample12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/buffer/NioExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/buffer/NioExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/buffer/NioExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/buffer/NioExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/buffer/NioExample6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/buffer/NioExample7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/buffer/NioExample8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/buffer/NioExample9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/selector/NioExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/selector/NioExample2/NioClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/selector/NioExample2/NioServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/zerocopy/nio/NioClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/zerocopy/nio/NioServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/zerocopy/old/OldClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/nio/zerocopy/old/OldServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/manyReactor/Acceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/manyReactor/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/manyReactor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/manyReactor/ReadHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/manyReactor/TCPHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/manyReactor/TCPReactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/manyReactor/WorkHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/masterandslave/Acceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/masterandslave/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/masterandslave/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/masterandslave/ReadHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/masterandslave/TCPHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/masterandslave/TCPReactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/masterandslave/TCPSubReactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/masterandslave/WorkHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/oneReactor/Acceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/oneReactor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/oneReactor/TCPHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/reactors/oneReactor/TCPReactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/main/proto/SayHello.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/protobuf/Person.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/protobuf/Student.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/netty/src/webapp/WebSocket.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/src/main/java/com/example/springboot/asycn/AsyncConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/src/main/java/com/example/springboot/asycn/AsyncTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/src/main/java/com/example/springboot/sync/AbstractSyncExecutors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/src/main/java/com/example/springboot/sync/SyncExecutors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/src/main/java/com/example/springboot/sync/SyncInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot/src/main/java/com/example/springboot/sync/SyncTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learndemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learndemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_13.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_21.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_21.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_21.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_2_1_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_6_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_6_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_5_1_8_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/example/example.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/target/classes/com/learnnote/example/Example2.class" beforeDir="false" afterPath="$PROJECT_DIR$/example/target/classes/com/learnnote/example/Example2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/target/classes/com/learnnote/example/Example5.class" beforeDir="false" afterPath="$PROJECT_DIR$/example/target/classes/com/learnnote/example/Example5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network-programming/Server.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/network-programming/networkprogramming.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/network-programming/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/proxy/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/network-programming/src/main/java/DemoServerSocket.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-websocket/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-websocket/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/SpringWebsocketApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/SpringWebsocketApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/controller/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/controller/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proxy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/netty/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proxy/proxy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proxy/src/main/java/util/InvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockproxy/InvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proxy/src/main/java/util/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockproxy/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-websocket/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-websocket/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-websocket/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-websocket/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-websocket/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-websocket/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-websocket/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/SpringWebsocketApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/example/springboot/springwebsocket/SpringWebsocketApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/config/WebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/example/springboot/springwebsocket/config/WebSocketConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/controller/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/example/springboot/springwebsocket/controller/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/example/springboot/springwebsocket/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/handler/HelloHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/example/springboot/springwebsocket/handler/HelloHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/model/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/example/springboot/springwebsocket/model/Greeting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/model/HelloMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot/src/main/java/com/example/springboot/springwebsocket/model/HelloMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-websocket/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-websocket/src/test/java/com/learnnote/springwebsocket/SpringWebsocketApplicationTests.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-websocket/target/" />
     <ignored path="$PROJECT_DIR$/example/target/" />
     <ignored path="$PROJECT_DIR$/network-programming/target/" />
     <ignored path="$PROJECT_DIR$/proxy/target/" />
+    <ignored path="$PROJECT_DIR$/mock-spring/target/" />
+    <ignored path="$PROJECT_DIR$/springboot/target/" />
+    <ignored path="$PROJECT_DIR$/mock-mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/design-pattern/target/" />
+    <ignored path="$PROJECT_DIR$/netty/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +292,87 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/netty/socket/server/SocketServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="23" column="51" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/netty/source/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/config/DemoFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/config/MapperImportBeanDefinitionRegister.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/dao/DemoDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/config/MapperScan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="9" selection-start-line="9" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/dao/DemoInvocationHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
+        <option value="HTML File" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -55,6 +383,10 @@
       <find>predecessor</find>
       <find>remove</find>
       <find>dispater</find>
+      <find>intern</find>
+      <find>flip</find>
+      <find>close</find>
+      <find>free</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -63,31 +395,71 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-websocket/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/model/HelloMessage.java" />
-        <option value="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/model/Greeting.java" />
-        <option value="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/config/WebSocketConfig.java" />
-        <option value="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/handler/HelloHandler.java" />
-        <option value="$PROJECT_DIR$/spring-websocket/src/main/java/example/example1.java" />
-        <option value="$PROJECT_DIR$/spring-websocket/src/main/java/example/Example2.java" />
-        <option value="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example3.java" />
-        <option value="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example1.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example4.java" />
-        <option value="$PROJECT_DIR$/network-programming/src/main/java/DemoServerSocket.java" />
-        <option value="$PROJECT_DIR$/network-programming/Server.txt" />
-        <option value="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/controller/GreetingController.java" />
-        <option value="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example5.java" />
-        <option value="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/SpringWebsocketApplication.java" />
-        <option value="$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/spring-websocket/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/proxy/src/main/java/util/ProxyUtil.java" />
-        <option value="$PROJECT_DIR$/proxy/src/main/java/util/InvocationHandler.java" />
-        <option value="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example2.java" />
-        <option value="$PROJECT_DIR$/proxy/src/main/java/util/test.java" />
-        <option value="$PROJECT_DIR$/proxy/src/main/java/util/Proxy.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example2/client/ProtoBufClientHandler.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example2/server/ProtoBufServerHandler.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example2/server/ProtoBufServerInitializer.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/netty/protobuf/example2/client/ProtoBufClientInitializer.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/netty/grpc/example1/MyRequest.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/netty/grpc/example1/SayHelloServiceGrpc.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/proto/SayHello.proto" />
+        <option value="$PROJECT_DIR$/netty/src/NioExample2.txt" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/NioExample2.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/NioExample3.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/NioExample1.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/NioExample4.java" />
+        <option value="$PROJECT_DIR$/example/src/main/java/com/learnnote/designpattern/builder/Student.java" />
+        <option value="$PROJECT_DIR$/example/src/main/java/com/learnnote/designpattern/builder/Main.java" />
+        <option value="$PROJECT_DIR$/example/src/main/java/com/learnnote/designpattern/builder/Person.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/NioExample5.java" />
+        <option value="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/example14/Teacher.java" />
+        <option value="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/example14/Person.java" />
+        <option value="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/example14/Main.java" />
+        <option value="$PROJECT_DIR$/netty/NioExample6-input.txt" />
+        <option value="$PROJECT_DIR$/netty/NioExample6-output.txt" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/NioExample6.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/NioExample7.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/NioExample8.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/NioExample9.java" />
+        <option value="$PROJECT_DIR$/netty/NioExample10-input.txt" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/NioExample10.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/buffer/NioExample10.java" />
+        <option value="$PROJECT_DIR$/netty/NioExample11.txt" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/buffer/NioExample12.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/buffer/NioExample2.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/selector/NioExample.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/reactors/masterandslave/ReadHandler.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/selector/NioExample1.java" />
+        <option value="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example15.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/selector/NioExample2/NioClient.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/selector/NioExample2/NioServer.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/buffer/NioExample11.java" />
+        <option value="$PROJECT_DIR$/netty/DecodeExample1_In.txt" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/decode/DecodeExample1.java" />
+        <option value="$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example16.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/netty/http/HttpServerHandler.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/zerocopy/OldServer.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/zerocopy/OldClient.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/zerocopy/nio/NioServer.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/zerocopy/nio/NioClient.java" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/nio/zerocopy/old/OldClient.java" />
+        <option value="$PROJECT_DIR$/netty/pom.xml" />
+        <option value="$PROJECT_DIR$/netty/src/main/java/com/netty/source/Test1.java" />
+        <option value="$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/config/DemoFactory.java" />
+        <option value="$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/config/MapperImportBeanDefinitionRegister.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\Maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -95,38 +467,35 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="example" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="netty" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="example" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="netty" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="learndemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="learndemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="netty" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="compiler" type="36feed69:MavenProjectsStructure$PluginNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="width" value="1920" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,60 +506,25 @@
             <path>
               <item name="learndemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="learndemo" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="mock-mybatis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learndemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="learndemo" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="mock-mybatis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learndemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="learndemo" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learndemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learndemo" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learndemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learndemo" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learndemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learndemo" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learndemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learndemo" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learndemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learndemo" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="mock-mybatis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learndemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="learndemo" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="mock-mybatis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -198,21 +532,66 @@
             <path>
               <item name="learndemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="learndemo" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="mock-mybatis" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learndemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learndemo" type="462c0819:PsiDirectoryNode" />
+              <item name="mock-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learndemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learndemo" type="462c0819:PsiDirectoryNode" />
+              <item name="mock-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="mockmybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learndemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learndemo" type="462c0819:PsiDirectoryNode" />
+              <item name="mock-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="mockmybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learndemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learndemo" type="462c0819:PsiDirectoryNode" />
+              <item name="mock-mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="mockmybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -220,13 +599,34 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../company/janus-portal-api" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA\Project\learndemo\netty" />
+      <recent name="D:\IntelliJ IDEA\Project\learndemo\netty\src\main\java\com\nio" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.mockmybatis" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.netty.heartbeat" />
+      <recent name="com.netty.socket" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA\Project\learndemo\netty\src\main\java\com" />
+      <recent name="D:\IntelliJ IDEA\Project\learndemo\netty" />
+      <recent name="D:\IntelliJ IDEA\Project\learndemo\netty\src\main\java\com\netty\grpc\example1" />
+      <recent name="D:\IntelliJ IDEA\Project\learndemo\netty\src\protobuf" />
+      <recent name="D:\IntelliJ IDEA\Project\learndemo\netty\src\main\java\com\netty\protobuf\example2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -240,9 +640,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Example2">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learnnote.example.Example1" />
+  <component name="RunManager" selected="Application.NioClient">
+    <configuration name="Example16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learnnote.example.Example16" />
       <module name="example" />
       <extension name="coverage">
         <pattern>
@@ -254,12 +654,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learnnote.example.Example2" />
-      <module name="example" />
+    <configuration name="NioClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nio.zerocopy.nio.NioClient" />
+      <module name="netty" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learnnote.example.*" />
+          <option name="PATTERN" value="com.nio.zerocopy.nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,12 +667,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learnnote.example.Example3" />
-      <module name="example" />
+    <configuration name="NioClient2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.nio.selector.NioExample2.NioClient" />
+      <module name="netty" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NioServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nio.zerocopy.nio.NioServer" />
+      <module name="netty" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learnnote.example.*" />
+          <option name="PATTERN" value="com.nio.zerocopy.nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,12 +687,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.learnnote.example.Example5" />
-      <module name="example" />
+    <configuration name="OldClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nio.zerocopy.old.OldClient" />
+      <module name="netty" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.learnnote.example.*" />
+          <option name="PATTERN" value="com.nio.zerocopy.old.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,32 +700,56 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringWebsocketApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="spring-websocket" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learnnote.springwebsocket.SpringWebsocketApplication" />
+    <configuration name="OldServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nio.zerocopy.old.OldServer" />
+      <module name="netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nio.zerocopy.old.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mock-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mockmybatis.MockMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springboot.SpringbootApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Example1" />
-      <item itemvalue="Application.Example2" />
-      <item itemvalue="Application.Example3" />
-      <item itemvalue="Application.Example5" />
-      <item itemvalue="Spring Boot.SpringWebsocketApplication" />
+      <item itemvalue="Application.NioClient2" />
+      <item itemvalue="Application.Example16" />
+      <item itemvalue="Application.OldServer" />
+      <item itemvalue="Application.OldClient" />
+      <item itemvalue="Application.NioServer" />
+      <item itemvalue="Application.NioClient" />
+      <item itemvalue="Spring Boot.SpringbootApplication" />
+      <item itemvalue="Spring Boot.MockMybatisApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example2" />
-        <item itemvalue="Application.Example5" />
-        <item itemvalue="Application.Example1" />
-        <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.NioClient" />
+        <item itemvalue="Application.NioServer" />
+        <item itemvalue="Application.OldClient" />
+        <item itemvalue="Application.OldServer" />
+        <item itemvalue="Application.Example16" />
       </list>
     </recent_temporary>
   </component>
   <component name="StructureViewFactory">
     <option name="AUTOSCROLL_MODE" value="false" />
-    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_LAMBDA" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_LAMBDA,SHOW_INTERFACES" />
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\nick.zhou\AppData\Roaming\Subversion</configuration>
@@ -342,11 +773,58 @@
       <workItem from="1564364852576" duration="3710000" />
       <workItem from="1564453339620" duration="8052000" />
       <workItem from="1564535612437" duration="11721000" />
+      <workItem from="1564582200828" duration="1261000" />
+      <workItem from="1564662519126" duration="2646000" />
+      <workItem from="1564840175035" duration="6356000" />
+      <workItem from="1565013251301" duration="1990000" />
+      <workItem from="1565182029713" duration="9672000" />
+      <workItem from="1565421775971" duration="3573000" />
+      <workItem from="1565503459409" duration="6471000" />
+      <workItem from="1565788138357" duration="178000" />
+      <workItem from="1566133137007" duration="2520000" />
+      <workItem from="1566206961679" duration="5073000" />
+      <workItem from="1566377592033" duration="218000" />
+      <workItem from="1566475220494" duration="147000" />
+      <workItem from="1566538427431" duration="7255000" />
+      <workItem from="1566638542304" duration="2270000" />
+      <workItem from="1566707584040" duration="14481000" />
+      <workItem from="1566740682912" duration="3335000" />
+      <workItem from="1566798983812" duration="1822000" />
+      <workItem from="1567057053520" duration="10609000" />
+      <workItem from="1567169174000" duration="8883000" />
+      <workItem from="1567231419779" duration="5890000" />
+      <workItem from="1567327996282" duration="1217000" />
+      <workItem from="1567329856632" duration="6734000" />
+      <workItem from="1567514562516" duration="2757000" />
+      <workItem from="1567602353381" duration="10191000" />
+      <workItem from="1567699130193" duration="4181000" />
+      <workItem from="1567776229905" duration="749000" />
+      <workItem from="1567874138667" duration="3762000" />
+      <workItem from="1567950818946" duration="8590000" />
+      <workItem from="1568030413856" duration="3712000" />
+      <workItem from="1568118832117" duration="10534000" />
+      <workItem from="1568214720192" duration="6984000" />
+      <workItem from="1568299623770" duration="1988000" />
+      <workItem from="1568301937703" duration="4286000" />
+      <workItem from="1568367170390" duration="5096000" />
+      <workItem from="1568441688858" duration="1056000" />
+      <workItem from="1568472988615" duration="1472000" />
+      <workItem from="1568641436272" duration="7511000" />
+      <workItem from="1568732469070" duration="6716000" />
+      <workItem from="1568822888913" duration="4663000" />
+      <workItem from="1568896634903" duration="3357000" />
+      <workItem from="1569078691848" duration="4449000" />
+      <workItem from="1569138872026" duration="2762000" />
+      <workItem from="1569159685538" duration="696000" />
+      <workItem from="1569329618460" duration="1937000" />
+      <workItem from="1569695300181" duration="159000" />
+      <workItem from="1570025482915" duration="493000" />
+      <workItem from="1570970534139" duration="2911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63468000" />
+    <option name="totallyTimeSpent" value="267081000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,10 +836,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1455" height="935" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6575716" visible="true" weight="0.18976545" />
-      <window_info id="Structure" order="1" sideWeight="0.3414966" side_tool="true" weight="0.18763326" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5883777" visible="true" weight="0.22405154" />
+      <window_info id="Structure" order="1" sideWeight="0.4116223" side_tool="true" weight="0.33858266" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -369,25 +848,26 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.20498915" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32860824" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.33376288" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.55283505" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.329718" />
-      <window_info anchor="bottom" id="Spring" order="8" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329718" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32860824" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.32860824" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32860824" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49892628" weight="0.39046392" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010737" side_tool="true" weight="0.33505154" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.329718" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.329718" />
-      <window_info anchor="bottom" id="Messages" order="15" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32860824" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32860824" />
+      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.49892628" weight="0.32860824" />
+      <window_info anchor="bottom" id="Tail" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.18763326" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.26332623" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25268432" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.09162491" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -396,36 +876,41 @@
       <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13166311" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5883777" visible="true" weight="0.33500358" />
+      <window_info id="Structure" order="1" sideWeight="0.4116223" side_tool="true" weight="0.33858266" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32860824" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.33466667" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.55283505" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
-      <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32860824" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.32860824" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32860824" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49892628" weight="0.39046392" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5010737" side_tool="true" weight="0.33505154" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32860824" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32860824" />
+      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.49892628" weight="0.32860824" />
+      <window_info anchor="bottom" id="Tail" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25268432" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.09162491" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,88 +920,94 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
           <line>503</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class</url>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class</url>
           <line>101</line>
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class</url>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class</url>
           <line>51</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/support/HandlerMethodReturnValueHandlerComposite.class</url>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/support/HandlerMethodReturnValueHandlerComposite.class</url>
           <line>49</line>
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class</url>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class</url>
           <line>68</line>
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class</url>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class</url>
           <line>58</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class</url>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class</url>
           <line>53</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class</url>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class</url>
           <line>62</line>
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/HandlerMethod.class</url>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/HandlerMethod.class</url>
           <line>282</line>
           <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestResponseBodyMethodProcessor.class</url>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestResponseBodyMethodProcessor.class</url>
           <line>97</line>
           <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/AbstractMessageConverterMethodProcessor.class</url>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/AbstractMessageConverterMethodProcessor.class</url>
           <line>100</line>
           <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/http/converter/FormHttpMessageConverter.class</url>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/http/converter/FormHttpMessageConverter.class</url>
           <line>250</line>
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
           <line>661</line>
           <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class</url>
           <line>633</line>
           <properties />
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mock-spring/src/main/java/org/spring/util/BeanFactory.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -527,6 +1018,41 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>this.getClass().getClassLoader().getResource(&quot;&quot;).toURI().getPath() + XMLName</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.getClass().getClassLoader().getResource(&quot;&quot;).toURI().getPath()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.getClass().getClassLoader().getResource(&quot;&quot;).toURI()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.getClass().getClassLoader().getResource(&quot;&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Thread.currentThread().getContextClassLoader().getResource(&quot;/&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Thread.currentThread().getContextClassLoader().getResource()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Thread.currentThread().getContextClassLoader()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>this.selectHandler(returnValue, returnType)</expression-string>
         <language-id>JAVA</language-id>
@@ -542,399 +1068,410 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
       <expression>
-        <expression-string>0</expression-string>
+        <expression-string>client.read(readBuffer)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/network-programming/Server.txt">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/bootstrap/ServerBootstrap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="85" selection-start-line="29" selection-start-column="85" selection-end-line="29" selection-end-column="85" />
+        <state relative-caret-position="271">
+          <caret line="132" column="35" lean-forward="true" selection-start-line="132" selection-start-column="35" selection-end-line="132" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/JDK/Java8/jdk/src.zip!/java/lang/ThreadLocal.java">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/channel/ChannelHandlerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="499" column="27" lean-forward="true" selection-start-line="499" selection-start-column="27" selection-end-line="499" selection-end-column="27" />
-          <folding>
-            <element signature="e#7765#7766#0" expanded="true" />
-            <element signature="e#7802#7803#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="294">
+          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/network-programming/pom.xml">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/channel/ChannelInboundHandlerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/controller/GreetingController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="250">
+          <caret line="31" column="62" lean-forward="true" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/bind/annotation/GetMapping.class">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/channel/ChannelInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="250">
+          <caret line="52" column="76" selection-start-line="52" selection-start-column="76" selection-end-line="52" selection-end-column="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example5.java">
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/netty/socket/server/SocketServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        <state relative-caret-position="-6">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-websocket/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/netty/socket/server/SocketServerInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="78">
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/SpringWebsocketApplication.java">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/channel/Channel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="296">
+          <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.class">
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/netty/http/HttpServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="294">
+          <caret line="40" column="38" lean-forward="true" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/JDK/Java8/jdk/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+    <entry file="jar://D:/JDK/JDK8/src.zip!/java/util/concurrent/ThreadFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="372">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/JDK/Java8/jdk/src.zip!/java/lang/reflect/Method.java">
+    <entry file="jar://D:/JDK/JDK8/src.zip!/java/util/concurrent/Executor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="484" column="64" selection-start-line="484" selection-start-column="64" selection-end-line="484" selection-end-column="64" />
+        <state relative-caret-position="1533">
+          <caret line="127" column="17" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/JDK/Java8/jdk/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/channel/SelectStrategyFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        <state relative-caret-position="126">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.class">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/channel/DefaultSelectStrategyFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="522" column="30" selection-start-line="522" selection-start-column="30" selection-end-line="522" selection-end-column="30" />
+        <state relative-caret-position="126">
+          <caret line="20" column="62" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/support/HandlerMethodArgumentResolverComposite.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="67" column="38" selection-start-line="67" selection-start-column="38" selection-end-line="67" selection-end-column="38" />
-          <folding>
-            <element signature="e#2052#2053#0" expanded="true" />
-            <element signature="e#2118#2119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/support/HandlerMethodArgumentResolver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/support/HandlerMethodReturnValueHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK/Java8/jdk/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="107" column="18" lean-forward="true" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK/Java8/jdk/src.zip!/java/lang/CharSequence.java">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/util/concurrent/RejectedExecutionHandlers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/http/converter/FormHttpMessageConverter.class">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/util/concurrent/DefaultEventExecutorChooserFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="370" lean-forward="true" selection-start-line="370" selection-end-line="370" />
+        <state relative-caret-position="189">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/http/converter/HttpMessageConverter.class">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/util/concurrent/ThreadPerTaskExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="168">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
+    <entry file="jar://D:/JDK/JDK8/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="433" selection-start-line="433" selection-end-line="433" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.21/tomcat-embed-core-9.0.21.jar!/javax/servlet/http/HttpServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="290" selection-start-line="290" selection-end-line="290" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/tomcat/embed/tomcat-embed-core/9.0.21/tomcat-embed-core-9.0.21.jar!/org/apache/catalina/core/ApplicationFilterChain.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="117" selection-start-line="117" selection-end-line="117" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/mvc/HttpRequestHandlerAdapter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="241">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
           <folding>
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5784#5785#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/HandlerAdapter.class">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/util/concurrent/DefaultThreadFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="e#1300#1301#0" expanded="true" />
+            <element signature="e#1359#1360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/util/concurrent/AbstractEventExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="46" column="16" lean-forward="true" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+          <folding>
+            <element signature="e#1752#1753#0" expanded="true" />
+            <element signature="e#1788#1789#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/util/concurrent/AbstractScheduledEventExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+          <folding>
+            <element signature="e#1245#1246#0" expanded="true" />
+            <element signature="e#1274#1275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/util/internal/ObjectUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/handler/AbstractHandlerMapping.class">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/util/concurrent/SingleThreadEventExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="224" column="39" selection-start-line="224" selection-start-column="39" selection-end-line="224" selection-end-column="39" />
+        <state relative-caret-position="401">
+          <caret line="164" column="43" selection-start-line="164" selection-start-column="43" selection-end-line="164" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/HandlerMapping.class">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/channel/SingleThreadEventLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        <state relative-caret-position="296">
+          <caret line="57" column="10" lean-forward="true" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/HandlerMethod.class">
+    <entry file="jar://D:/JDK/JDK8/src.zip!/java/nio/channels/spi/SelectorProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="282" selection-start-line="282" selection-end-line="282" />
+        <state relative-caret-position="241">
+          <caret line="229" column="37" selection-start-line="229" selection-start-column="37" selection-end-line="229" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+    <entry file="jar://D:/JDK/JDK8/src.zip!/java/security/AccessController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        <state relative-caret-position="178">
+          <caret line="297" column="31" selection-start-line="297" selection-start-column="31" selection-end-line="297" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/channel/nio/NioEventLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="317">
+          <caret line="142" column="21" lean-forward="true" selection-start-line="142" selection-start-column="21" selection-end-line="142" selection-end-column="21" />
+          <folding>
+            <element signature="e#6858#7291#0" expanded="true" />
+            <element signature="e#7290#7291#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/method/support/HandlerMethodReturnValueHandlerComposite.class">
+    <entry file="jar://D:/JDK/JDK8/src.zip!/java/util/concurrent/ExecutorService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="241">
+          <caret line="196" column="12" selection-start-line="196" selection-start-column="12" selection-end-line="196" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestResponseBodyMethodProcessor.class">
+    <entry file="jar://D:/JDK/JDK8/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        <state relative-caret-position="241">
+          <caret line="93" column="17" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/AbstractMessageConverterMethodProcessor.class">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/util/concurrent/EventExecutorGroup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        <state relative-caret-position="231">
+          <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/util/concurrent/EventExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="512" column="43" lean-forward="true" selection-start-line="512" selection-start-column="43" selection-end-line="512" selection-end-column="43" />
+        <state relative-caret-position="210">
+          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.1.8.RELEASE/spring-webmvc-5.1.8.RELEASE.jar!/org/springframework/web/servlet/HandlerExecutionChain.class">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/util/concurrent/EventExecutorChooserFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        <state relative-caret-position="294">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-websocket/src/main/java/com/learnnote/springwebsocket/controller/TestController.java">
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/util/concurrent/Promise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        <state relative-caret-position="241">
+          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/util/concurrent/FutureListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/util/concurrent/MultithreadEventExecutorGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="57" column="11" selection-start-line="57" selection-start-column="11" selection-end-line="57" selection-end-column="11" />
+          <folding>
+            <element signature="e#5625#5626#0" expanded="true" />
+            <element signature="e#5684#5685#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/channel/MultithreadEventLoopGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="51" column="10" lean-forward="true" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/channel/ChannelHandlerContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="124" column="17" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/nio/zerocopy/old/OldClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/JDK8/src.zip!/java/net/ServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="710" column="16" selection-start-line="710" selection-start-column="16" selection-end-line="710" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/JDK8/src.zip!/java/nio/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="381" column="5" selection-start-line="381" selection-start-column="5" selection-end-line="381" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/nio/zerocopy/nio/NioClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/nio/zerocopy/nio/NioServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/apache/logging/log4j/log4j-api/2.11.2/log4j-api-2.11.2.jar!/org/apache/logging/log4j/message/ReusableSimpleMessage.class">
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/nio/zerocopy/old/OldServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/network-programming/src/main/java/DemoServerSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-websocket/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="jar://D:/JDK/Java8/jdk/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-127">
-          <caret line="75" column="32" lean-forward="true" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/src/main/java/com/learnnote/example/Example2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK/Java8/jdk/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="928" column="18" selection-start-line="928" selection-start-column="18" selection-end-line="928" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/util/InvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK/Java8/jdk/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="2128" column="29" lean-forward="true" selection-start-line="2128" selection-start-column="29" selection-end-line="2128" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/util/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding>
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/util/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1378">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        <state relative-caret-position="390">
+          <caret line="28" column="54" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/JDK8/src.zip!/java/nio/channels/FileChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="578" column="59" selection-start-line="576" selection-start-column="71" selection-end-line="578" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Maven/repository/io/netty/netty-all/4.1.12.Final/netty-all-4.1.12.Final-sources.jar!/io/netty/channel/nio/NioEventLoopGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+          <folding>
+            <element signature="e#1986#1987#0" expanded="true" />
+            <element signature="e#2033#2034#0" expanded="true" />
+            <element signature="e#2461#2462#0" expanded="true" />
+            <element signature="e#2530#2531#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/netty/socket/server/SocketServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty/src/main/java/com/netty/source/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/config/MapperScan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/dao/DemoDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/dao/DemoInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/config/DemoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mock-mybatis/src/main/java/com/example/mockmybatis/config/MapperImportBeanDefinitionRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -988,7 +1525,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>proxy</last-edited>
+          <last-edited>netty</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

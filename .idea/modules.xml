@@ -4,8 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/learndemo.iml" filepath="$PROJECT_DIR$/.idea/learndemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-websocket/spring-websocket.iml" filepath="$PROJECT_DIR$/spring-websocket/spring-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mock-mybatis/mock-mybatis.iml" filepath="$PROJECT_DIR$/mock-mybatis/mock-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty/netty.iml" filepath="$PROJECT_DIR$/netty/netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springboot.iml" filepath="$PROJECT_DIR$/springboot/springboot.iml" />
     </modules>
   </component>
 </project>
